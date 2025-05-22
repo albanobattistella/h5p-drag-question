@@ -5,8 +5,8 @@
       "default": "Verifica"
     },
     {
-      "label": "Submit answer button",
-      "default": "Submit"
+      "label": "Pulsante Invia risposta",
+      "default": "Invia"
     },
     {
       "label": "Pulsante Riprova",
@@ -53,7 +53,7 @@
                   },
                   {
                     "label": "Opacità Sfondo",
-                    "description": "Reducing the opacity may result in an insufficient contrast and make the content not accessible."
+                    "description": "Ridurre l'opacità potrebbe comportare un contrasto insufficiente e rendere il contenuto non accessibile."
                   },
                   {
                     "label": "Numero infinito di istanze di elementi",
@@ -70,7 +70,7 @@
                 "fields": [
                   {
                     "label": "Etichetta",
-                    "description": "The label is used by assistive technologies."
+                    "description": "L'etichetta è utilizzata dalle tecnologie assistive."
                   },
                   {
                     "label": "Mostra etichetta"
@@ -84,7 +84,7 @@
                   },
                   {
                     "label": "Opacità Sfondo",
-                    "description": "Reducing the opacity may result in an insufficient contrast and make the content not accessible."
+                    "description": "Ridurre l'opacità potrebbe comportare un contrasto insufficiente e rendere il contenuto non accessibile."
                   },
                   {
                     "label": "Suggerimenti e feedback",
@@ -253,7 +253,7 @@
     },
     {
       "label": "Rappresentazione testuale sulla barra del punteggio per chi usa un lettore vocale",
-      "default": "Il tuo punteggio è :num out di :total"
+      "default": "Il tuo punteggio è :num out di :totale"
     },
     {
       "label": "Rappresentazione testuale del pulsante di spiegazione del punteggio",
@@ -261,11 +261,11 @@
     },
     {
       "label": "Etichetta delle tecnologie assistive per il pulsante \"Verifica\"",
-      "default": "Check the answers. The responses will be marked as correct, incorrect, or unanswered."
+      "default": "Controlla le risposte. Le risposte saranno contrassegnate come corrette, errate o senza risposta.."
     },
     {
       "label": "Etichetta delle tecnologie assistive per il pulsante \"Riprova\"",
-      "default": "Retry the task. Reset all responses and start the task over again."
+      "default": "Riprova l'attività. Reimposta tutte le risposte e ricomincia l'attività da capo.."
     }
   ]
 }
